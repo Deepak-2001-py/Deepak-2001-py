@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm machine learning engineer having project like chat bot and subject classifier , kidney disease classifier <br>Like project and currently I am working on advance deep learning, machine learning in the field of nlp, computer vision, reinforcement learning. 
+I'm machine learning engineer having project like chat bot ,web scrapping, web plaigarism  and subject classifier , kidney disease classifier <br> projects and currently I am working on advance deep learning, machine learning in the field of nlp, computer vision. 
 
 
 # 💻 Tech Stack:
