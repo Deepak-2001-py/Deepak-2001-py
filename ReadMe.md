@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm machine learning engineer having project like chat bot ,web scrapping, web plaigarism  and subject classifier , kidney disease classifier <br> projects and currently I am working on advance deep learning, machine learning in the field of nlp, computer vision. 
+I am a machine learning engineer with one year of experience, skilled in developing solutions like chatbots, web scraping systems, plagiarism detection tools, subject classification models, and kidney disease classifiers. My current focus lies in exploring advanced deep learning and machine learning techniques within the domains of natural language processing (NLP) and computer vision.
 
 
 # 💻 Tech Stack:
